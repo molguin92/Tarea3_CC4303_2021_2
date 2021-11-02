@@ -1,2 +1,4 @@
 ifconfig eth0 10.3.2.2/24 up
 route add -net 10.3.1.0/24 gw 10.3.2.1 dev eth0
+iperf3 -s -D -p 8080
+iperf3 -s -D -p 8081
