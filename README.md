@@ -1,4 +1,4 @@
-# Tarea 3 CC4303 2021
+# Tarea 3 CC4303 --- Kathará
 
 Para más detalles, ver READMEs en los subdirectorios de cada laboratorio.
 
@@ -11,7 +11,7 @@ Para más detalles, ver READMEs en los subdirectorios de cada laboratorio.
 
 ## Licencia
 
-Copyright 2021 M. Olguín Muñoz, D. Wistuba La Torre.
+Copyright 2021 -- 2022 M. Olguín Muñoz, D. Wistuba La Torre.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
