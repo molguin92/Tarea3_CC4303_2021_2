@@ -1,4 +1,5 @@
-FROM molguin/echoserver:binary
+# FROM molguin/echoserver:binary
+FROM molguin/redes:2022-1-T2
 
 RUN apt-get update && \
     apt-get install iperf3 net-tools bash zsh python3 \
